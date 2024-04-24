@@ -44,7 +44,7 @@ try {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Exemplo FipeLib</title>
+    <title>Exemplos FipeLib</title>
     <meta charset="utf-8">
 </head>
 <style>
